@@ -12,4 +12,13 @@ A comprehensive POS system developed in PHP 8.2 and Laravel 11 that includes key
 ![POS System Image](https://github.com/Ilyas02828/POS/blob/main/ee.png)
 
 
-#POSSystem #InventoryManagement #SalesAnalytics #Laravel #PHP #WebDevelopment #BusinessSolutions #InvoiceGenerator #StockManagement #OpenSource
+##POSSystem
+##InventoryManagement
+##SalesAnalytics 
+##Laravel 
+##PHP 
+##WebDevelopment 
+##BusinessSolutions 
+##InvoiceGenerator 
+##StockManagement 
+##OpenSource
